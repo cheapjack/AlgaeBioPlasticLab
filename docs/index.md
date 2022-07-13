@@ -1,3 +1,5 @@
+![AlgaeBioPlasticLab logo](images/AlgaeBioPlasticLabLogo.png)
+
 # AlgaeBioPlasticLab
 
 Documentation of a simple kit for making and experimenting with bioplastics for a residency at [METAL Liverpool](http://www.metalculture.com/about-us/liverpool/) 
