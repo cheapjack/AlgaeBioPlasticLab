@@ -16,8 +16,8 @@ The [event](https://www.eventbrite.co.uk/e/algaebioplasticlab-feeling-for-the-or
 Suitable for ages 16+
 
 ## Structure 
-
-Time|Activity
+<br>
+**Time**|**Activity**
 ---|---
 1-1.30pm|Refreshments<br>Introduction to project<br>Critical Making<br>Introduce Foldscopes<br>Cook demo
 1.30pm|Foldscope Making<br>Slide Prep<br>Phone viewing<br>Advanced mould making (option)
@@ -61,9 +61,10 @@ All of these ingredients are sourced on eBay and are food grade and non-toxic. B
 
 These are amounts enough to fill one of our moulds to give you 2 sheets of 107mm x 244mm size. The most consistent results have come from half the original amounts listed on Materiom per sheet, one at a time but you could experiment.
 
-Amount|Item
+
+**Amount**|**Item**
 ---|---
-175ml|Water<br>(distilled ideally, boiled and cooled, or tap)
+175ml|Water<br>(distilled ideally, <br>boiled and cooled, or tap)
 2ml|Glycerol
 8g|Carrageenan Kappa 
 0.5g|Spirulina Algae
