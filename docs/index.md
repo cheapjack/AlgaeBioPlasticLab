@@ -9,13 +9,14 @@ Algae microscopy workshops, critical making, DIY Material Science
 ## Equipment
 
  * Hot Plate
- * Saucepan
- * Food Dehyrdrator
- * Laser cut moulds for dehydrator [Lasercutting at DoESLiverpool](https://doesliverpool.com)
- * Plasticine or blue tack for internal mould walls
+ * Saucepan with insulated handle
+ * [Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer)
+ * Laser cut moulds for dehydrator [Lasercutting at DoESLiverpool](https://doesliverpool.com). You can use the cut file [BioPlasticTrays.svg here](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/BioPlasticTrays.svg)
+ * Plasticine or blue tack for internal mould walls, or 3D Print them [from this file](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/AlgaeBioPlasticRingMould.stl)
  * Camping Stove
- * Heat proof Conical Flask
+ * Heat proof 500ml Borosilicate Glass Conical Flask
  * Pyrex dish
+ * Analogue cooking thermometer
  * [Electronic thermometer probe](https://gitlab.com/cheapjack/jacobtemperatureshrimp)
  * Microscales
  * Scales
