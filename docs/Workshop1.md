@@ -1,4 +1,3 @@
-# Feeling for the Organisms Workshop
 
 ![Image of a lasercut blank BioPlastic Sheet Mould](images/BioPlasticSheetMouldSmall.jpg)
 
