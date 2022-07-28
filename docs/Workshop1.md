@@ -15,7 +15,8 @@ Suitable for ages 16+
 You can find this online at **https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1**
 
 ## Structure 
-<br>
+
+
 **Time**|**Activity**
 ---|---
 1-1.30pm|Refreshments<br>Introduction to project<br>Critical Making<br>Introduce Foldscopes<br>Cook demo
