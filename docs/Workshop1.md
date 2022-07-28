@@ -89,8 +89,6 @@ Use a thermometer and heat the mixture to 70º C. Once at 70ºC, remove thermome
 
 Dry in a food dehydrator for 18hrs at 35º, but you can also air-dry the sample, which will take longer. Once the film dries, carefully peel off.
 
-<page-break>
-
 ## Origami Fold designs
 
 This uses the Huffman Waterbomb Tessalation design from [Origami Simulator](https://origamisimulator.org/). Tape your BioPlastic sheet to the handout and use as a template to score the folds with a pair of scissors. Another origami resource is at [Cut Fold Templates](http://cutfoldtemplates.com)
