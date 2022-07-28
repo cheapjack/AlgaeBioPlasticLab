@@ -11,9 +11,9 @@ In the workshop, we'll learn how to make and use basic bioplastics with algae, w
  * Make stuff by folding algal biomaterials
  * Understand the social relations everyday materials have with non-humans
 
-The [event](https://www.eventbrite.co.uk/e/algaebioplasticlab-feeling-for-the-organisms-workshop-tickets-383972059767) is free but places are limited so booking is essential
-
 Suitable for ages 16+
+
+You can find this online at **https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1**
 
 ## Structure 
 <br>
@@ -93,8 +93,8 @@ Dry in a food dehydrator for 18hrs at 35º, but you can also air-dry the sample,
 
 ## Origami Fold designs
 
-This uses the Huffman Waterbomb Tessalation design from [Origami Simulatore](https://origamisimulator.org/). Tape your BioPlastic sheet to the handout and use as a template to score the folds with a pair of scissors.
+This uses the Huffman Waterbomb Tessalation design from [Origami Simulator](https://origamisimulator.org/). Tape your BioPlastic sheet to the handout and use as a template to score the folds with a pair of scissors. Another origami resource is at [Cut Fold Templates](http://cutfoldtemplates.com)
 
-
+![Cut fold Template](images/FirstFold.png)
 
 
