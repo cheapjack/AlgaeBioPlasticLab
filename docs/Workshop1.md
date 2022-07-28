@@ -3,7 +3,7 @@
 
 ## About this [event](https://www.eventbrite.co.uk/e/algaebioplasticlab-feeling-for-the-organisms-workshop-tickets-383972059767)
 
-In the workshop, we'll learn how to make and use basic bioplastics with algae, water and glycerol and take part in a form of ‘critical making’, a way of developing a critical perspective on the world by hands on thinking through materials.
+In the workshop, we'll learn how to make and use basic bioplastics with algae, water, processed extracts from red seaweed and glycerol and take part in a form of ‘critical making’, a way of developing a critical perspective on the world by hands on thinking through materials.
 
  * See how bioplastic can be made with domestic technology
  * Get to know the algae Euglena gracilis with a paper microscope
@@ -12,7 +12,7 @@ In the workshop, we'll learn how to make and use basic bioplastics with algae, w
 
 Suitable for ages 16+
 
-You can find this online at **https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1**
+You can find this online at **[https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1](https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1)**
 
 ## Structure 
 
@@ -22,7 +22,7 @@ You can find this online at **https://cheapjack.github.io/AlgaeBioPlasticLab/Wor
 1-1.30pm|Refreshments<br>Introduction to project<br>Critical Making<br>Introduce Foldscopes<br>Cook demo
 1.30pm|Foldscope Making<br>Slide Prep<br>Phone viewing<br>Advanced mould making (option)
 2.30pm|Break
-3.00pm|Folding bioplastic<br>Cooking **Ca03** in pairs
+3.00pm|Folding bioplastic<br>Cooking **[Ca03](https://materiom.org/recipe/206)** in pairs
 4pm|End
 
 ## Introduction
@@ -33,7 +33,7 @@ This is based on recent PhD research on interdisciplinary work and learning in b
 
 Critical making is a phrase coined by [Matt Ratto](https://criticalmaking.com/matt-ratto/) and used broadly by other researchers working around maker culture, such as [Garnet Hertz](http://www.conceptlab.com/criticalmaking/), and in the fields of Human Computer Interaction (HCI) that explore things like Biotic Gaming, games that use digital technology and art to play with other organisms, something I call *Interspecies Gaming*. A good example is Raphael Kim's [MouldRush](https://raphael.kim/mould-rush-1).
 
-Critical Making is also a part of my field research, Science and Technology Studies (STS) which explores the social and political implications of the historical construction of science and technology. STS challenges how our theories and methods, what we think and how we do things, partly shape the world and what it is possible to know about. Critical making really brings these theories and methods together and tries to think through making. So today we're doing a bunch of activity to think about the limits and implication of Biomaterials
+Critical Making is also a part of the field of Science and Technology Studies (STS) which explores the social and political implications of the historical construction of science and technology. STS challenges how our theories and methods, what we think and how we do things, partly shape the world and what it is possible to know about. Critical making really brings these theories and methods together and tries to think like STS *through* making. So today we're doing a bunch of activity to think about the limits and implication of Biomaterials
 
 ## Biomaterials
 
