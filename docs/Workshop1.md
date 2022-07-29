@@ -65,7 +65,12 @@ Carrageenan Kappa is derived from Red seaweed so is quite similar to the other o
 
 ## Instructions 📝
 
+### Cooking Guide ⚗️ 
+
 I've made lasercut moulds with 3mm clear acrylic and 8mm M4 bolts with M4 butterfly nuts designed to fit  a [Electiq Maxi Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOFGfmVd0ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Ingredients 🛒
 
@@ -79,6 +84,7 @@ These are amounts enough to fill one of our moulds to give you 2 sheets of 107mm
 2ml|Glycerol
 8g|Carrageenan Kappa 
 0.5g|Spirulina Algae
+
 
 ### Step 1 ⚗️ 
 

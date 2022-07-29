@@ -8,6 +8,13 @@ Check out the [Workshop Content](Workshop1.md)
 
 `Algae` `microscopy` `workshops`, `critical making`, `DIY` `Material Science`
 
+### Cooking Guide ⚗️ 
+
+I've made lasercut moulds with 3mm clear acrylic and 8mm M4 bolts with M4 butterfly nuts designed to fit  a [Electiq Maxi Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOFGfmVd0ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Lab Equipment
 
  * Hot Plate
