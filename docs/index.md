@@ -4,9 +4,11 @@
 
 Documentation of a simple kit for making and experimenting with bioplastics for a residency at [METAL Liverpool](http://www.metalculture.com/about-us/liverpool/) 
 
-Algae microscopy workshops, critical making, DIY Material Science
+Check out the [Workshop Content](Workshop1.md)
 
-## Equipment
+`Algae` `microscopy` `workshops`, `critical making`, `DIY` `Material Science`
+
+## Lab Equipment
 
  * Hot Plate
  * Saucepan with insulated handle
