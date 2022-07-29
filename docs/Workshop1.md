@@ -53,11 +53,15 @@ Feeling for the Organisms is a fascinating book by Evelyn Fox Keller about genet
 
 ### Phone Viewing 📲
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0EdnniUN24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0iRCceGCGus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## First Cook ⚗️
 
 All my recipes orginate from the excellent [Materiom](https://materiom.org/) project who are trying to standardise biomaterial recipes from all over the world. My favourite is the [Carrageenan Kappa Ca03 recipe](https://materiom.org/recipe/206)
+
+### Warning ☣️
+
+Carrageenan Kappa is derived from Red seaweed so is quite similar to the other once-living material Spirulina Algae. All these ingredients are food grade supplements and established food additives available widely on eBay and in health food shops and the food industry. They are not known to cause allergies but if you are allergic or have reactions to seaweed or marine vegetation please take care and let us know.  We can't guarantee the ingredients might not be contaminated with other food stuffs like gluten or nuts, it depends on the supplier. If you have allergies let us know and seek further information. Basic rule is do not ingest and wash hands after our activity.
 
 ## Instructions 📝
 
@@ -68,8 +72,6 @@ I've made lasercut moulds with 3mm clear acrylic and 8mm M4 bolts with M4 butter
 All of these ingredients are sourced on eBay and are food grade and non-toxic. Be careful you only get pure Carrageenan Kappa, some suppliers include it with xanthem gum which makes it far too thick for the foldable film we make here.
 
 These are amounts enough to fill one of our moulds to give you 2 sheets of 107mm x 244mm size. The most consistent results have come from half the original amounts listed on Materiom per sheet, one at a time but you could experiment.
-
-Carrageenan Kappa is derived from Red seaweed so is quite similar to the other once-living material Spirulina Algae
 
 **Amount**|**Item**
 ---|---
