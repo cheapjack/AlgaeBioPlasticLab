@@ -36,7 +36,7 @@ I've made lasercut moulds with 3mm clear acrylic and 8mm M4 bolts with M4 butter
 
  * Agar Agar
  * Glycerol
- * Water
+ * [Deionised Water](https://www.halfords.com/motoring/battery-maintenance/battery-accessories/halfords-essentials-battery-top-up-water-5l-665966.html) 
  * Algae Samples
  * Carrageenan Kappa
  * Spirulina
