@@ -1,4 +1,6 @@
 
+![Montage of 4 images from workshop Clockwise from Left, Close up of origami swan, rabbit, frog, flower, boat, Cooking bioplastic film, 140x of algal plastic sheet on a smartphone with materials in the background, Foldscope folding origami microscope with BioPlastic](images/WorkshopMontage.png) 
+
 ![Image of a lasercut blank BioPlastic Sheet Mould](images/BioPlasticSheetMouldSmall.jpg)
 
 ## About this [event](https://www.eventbrite.co.uk/e/algaebioplasticlab-feeling-for-the-organisms-workshop-tickets-383972059767) 📆

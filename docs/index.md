@@ -1,10 +1,11 @@
-![AlgaeBioPlasticLab logo](images/AlgaeBioPlasticLabLogo.png)
 
 ![Image of first batch of Carrageenan Kappa Bioplastic](images/FirstCook.png)
 
+![Montage of 4 images from workshop Clockwise from Left, Close up of origami swan, rabbit, frog, flower, boat, Cooking bioplastic film, 140x of algal plastic sheet on a smartphone with materials in the background, Foldscope folding origami microscope with BioPlastic](images/WorkshopMontage.png) 
+
 Documentation of a simple kit for making and experimenting with bioplastics for a residency at [METAL Liverpool](http://www.metalculture.com/about-us/liverpool/) 
 
-Check out the [Workshop Content](Workshop1.md)
+Check out the [Workshop](Workshop1.md)
 
 `Algae` `microscopy` `workshops`, `critical making`, `DIY` `Material Science`
 
