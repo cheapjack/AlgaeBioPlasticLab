@@ -5,9 +5,11 @@
 
 Documentation of a simple kit for making and experimenting with bioplastics for a residency at [METAL Liverpool](http://www.metalculture.com/about-us/liverpool/) 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YKco4hxFj7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Check out the [Workshop](Workshop1.md)
 
-`Algae` `microscopy` `workshops`, `critical making`, `DIY` `Material Science`
+`Algae`, `microscopy`, `workshops`, `critical making`, `DIY`, `Bioplastic`, `Material Science`
 
 ### Cooking Guide ⚗️ 
 
