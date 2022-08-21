@@ -7,7 +7,7 @@ Documentation of a simple kit for making and experimenting with bioplastics for 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKco4hxFj7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Check out the [Workshop](Workshop1.md)
+To get started check out the [Workshop](Workshop1.md). You don't have to do the microscopy with folddscopes - they can be hard to get hold of.
 
 `Algae`, `microscopy`, `workshops`, `critical making`, `DIY`, `Bioplastic`, `Material Science`
 
@@ -23,22 +23,20 @@ We got lucky with tap water for a few cooks but found tap water to be ionsied an
 
 Carrageenan Kappa is derived from Red seaweed so is quite similar to the other once-living material Spirulina Algae. All these ingredients are food grade supplements and established food additives available widely on eBay and in health food shops and the food industry. They are not known to cause allergies but if you are allergic or have reactions to seaweed or marine vegetation please take care and let us know.  We can't guarantee the ingredients might not be contaminated with other food stuffs like gluten or nuts, it depends on the supplier. If you have allergies let us know and seek further information. Basic rule is do not ingest and wash hands after our activity and don't drink the de-ionised water if you've used battery top up water.
 
-## Lab Equipment
+## Domestic Lab Equipment
 
  * Hot Plate
- * Saucepan with insulated handle
- * [Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer)
+ * Saucepan with insulated handle (do not re-use for food)
+ * [Electriq Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer)
  * Laser cut moulds for dehydrator [Lasercutting at DoESLiverpool](https://doesliverpool.com). You can use the cut file [BioPlasticTrays.svg here](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/BioPlasticTrays.svg)
  * Plasticine or blue tack for internal mould walls, or 3D Print them [from this file](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/AlgaeBioPlasticRingMould.stl)
- * Camping Stove
- * Heat proof 500ml Borosilicate Glass Conical Flask
+ * Heat proof 500ml Borosilicate Glass Conical Flask - not essential but handy and safe for mixing and heating although you'll need gloves to handle them. Our recipe is realitvely low temperature when mixing so you'll see me handling without gloves.
  * Pyrex dish
- * Analogue cooking thermometer
- * [Electronic thermometer probe](https://gitlab.com/cheapjack/jacobtemperatureshrimp)
+ * Analogue cooking thermometer- if you can get a traditional thermometer for jam making, this is really handy.
  * Microscales
  * Scales
- * Magnetic stirrer
- * Foldscopes
+ * Magnetic stirrer - not essential but can help if you mixing alot - again available on ebay
+ * [Foldscopes](https://foldscope.com/collections/for-everyone) - Only necessary if you want to explore the world of living algae!
 
 ## Ingredients
 

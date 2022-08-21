@@ -77,6 +77,22 @@ You could imagine other more simple moulds - cake and baking tins and you could 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FOFGfmVd0ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Domestic Lab Equipment ⚗️
+
+ * Hot Plate
+ * Saucepan with insulated handle (do not re-use for food)
+ * [Electriq Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer)
+ * Laser cut moulds for dehydrator [Lasercutting at DoESLiverpool](https://doesliverpool.com). You can use the cut file [BioPlasticTrays.svg here](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/BioPlasticTrays.svg)
+ * Plasticine or blue tack for internal mould walls, or 3D Print them [from this file](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/AlgaeBioPlasticRingMould.stl)
+ * Heat proof 500ml Borosilicate Glass Conical Flask - not essential but handy and safe for mixing and heating although you'll need gloves to handle them. Our recipe is realitvely low temperature when mixing so you'll see me handling without gloves.
+ * Pyrex dish
+ * Analogue cooking thermometer- if you can get a traditional thermometer for jam making, this is really handy.
+ * Microscales
+ * Scales
+ * Magnetic stirrer - not essential but can help if you mixing alot - again available on ebay
+ * [Foldscopes](https://foldscope.com/collections/for-everyone) - Only necessary if you want to explore the world of living algae!
+
+
 
 ### Ingredients 🛒
 
