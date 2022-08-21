@@ -17,6 +17,11 @@ I've made lasercut moulds with 3mm clear acrylic and 8mm M4 bolts with M4 butter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FOFGfmVd0ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Ingredient Warning ☣️
+
+We got lucky with tap water for a few cooks but found tap water to be ionsied and lead to unexpected resulte. Battery top up water about £1 a litre seemed alot more stable. Distilled water might be even better. So ignore my advice in the instructional that tap water will do! 
+
+Carrageenan Kappa is derived from Red seaweed so is quite similar to the other once-living material Spirulina Algae. All these ingredients are food grade supplements and established food additives available widely on eBay and in health food shops and the food industry. They are not known to cause allergies but if you are allergic or have reactions to seaweed or marine vegetation please take care and let us know.  We can't guarantee the ingredients might not be contaminated with other food stuffs like gluten or nuts, it depends on the supplier. If you have allergies let us know and seek further information. Basic rule is do not ingest and wash hands after our activity and don't drink the de-ionised water if you've used battery top up water.
 
 ## Lab Equipment
 
