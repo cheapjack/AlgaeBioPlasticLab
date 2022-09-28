@@ -72,7 +72,6 @@ I've made lasercut moulds with 3mm clear acrylic and 8mm M4 bolts with M4 butter
 
 You could imagine other more simple moulds - cake and baking tins and you could dehydrate in a conventional fan oven at 35 degrees celcius. Experiment at your own risk with that - it is hard to control low temperatures with kitchen ovens. The dehydrator is much safer cost under £50 but you need to look for oblong trays like the Electriq 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FOFGfmVd0ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Domestic Lab Equipment ⚗️
 
