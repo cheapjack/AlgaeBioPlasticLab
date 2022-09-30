@@ -24,10 +24,10 @@ You can find this online at **[https://cheapjack.github.io/AlgaeBioPlasticLab/Wo
 
 **Time**|**Activity**
 ---|---
-10.00qm|Introduction to project<br>Critical Making<br>Introduce Foldscopes<br>Cook demo
-10.30pm|Foldscope Making<br>Slide Prep<br>Phone viewing<br>Advanced mould making (option)
-11.45pm|Break
-12.00pm|Folding bioplastic<br>Cooking **[Ca03](https://materiom.org/recipe/206)** in pairs
+10.00am|Introduction to project<br>Critical Making<br>Introduce Foldscopes<br>Cook demo
+10.30am|Foldscope Making<br>Slide Prep<br>Phone viewing<br>Advanced mould making (option)
+11.15am|Break
+12.30pm|Folding bioplastic<br>Cooking **[Ca03](https://materiom.org/recipe/206)** in pairs
 
 <br>
 
@@ -52,9 +52,6 @@ There are alot of guides to make bioplastics on the web but the  [Materiom Proje
 
 Feeling for the Organisms is a fascinating book by Evelyn Fox Keller about geneticist Barbara McClintock.  When you spend time with materials, especially living material like we all do, you get a complex kind of knowledge about them, than say reading about them in a book. Today we'll get to know the Algae, *Euglena gracilis* by trying to see them with a *Foldscope* microscope, so when we use processed, dehydrated and most importantly *dead* Spirulina to colour our bioplastic later we've actually got a feeling for the organisms and materials we make and then use. I'd argue in our world of advanced capitalism we sometimes lose this kind of intimate relationship with materials. We struggle to find time to build that kind of relationship being too busy to survive and work and look after each other. Maybe we dont need those kind of feelings all of the time, for not all of the materials we use but today I'd like to just imagine what that would be like. If you make stuff, do DIY or your a builder or gardener for example you already have feelings for the materials you work with, so in some ways critical making just builds on that and tries to make time to just think about it a bit more while you are making.
 
-## Foldscopes 🔬
-
-[Foldscopes](https://foldscope.com/pages/frequently-asked-questions) are brillinat little kits to see things at 140X magnification or more when combined with a phone. We're going to make them from a kit and then try look at some algae samples I've been growing.
 
 ## First Cook ⚗️
 
@@ -126,9 +123,26 @@ Use a thermometer and heat the mixture to 70º C. Once at 70ºC, remove thermome
 
 Dry in a food dehydrator for 11hrs at 35º, but you can also air-dry the poured mix in a baking tray in a dry warm room for 24 hours, or a fan oven on the lowest possible temperature for 4-6hrs. Once the film dries, carefully peel off. 
 
+
+## Foldscopes 🔬
+
+[Foldscopes](https://foldscope.com/pages/frequently-asked-questions) are brillinat little kits to see things at 140X magnification or more when combined with a phone. We're going to make them from a kit and then try look at some algae samples I've been growing.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-tFJRGQBIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+First step is to use a sample slide, provided in your workshop and test your 'scope with that, and once you've seen something clearly by eye and by phone you can move onto preparing your own slides with 'live' samples. This can be tricky but have a look at the videos below to help - I've included footage from a slide I prepared with *Euglena gracilis* in the clear channels I made with PDMS silicon and an old vinyl, right at the bottom.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0iRCceGCGus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-D433R572fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Origami Fold designs 📄
 
-This uses the Huffman Waterbomb Tessalation design from [Origami Simulator](https://origamisimulator.org/). Tape your BioPlastic sheet to the handout and use as a template to score the folds with a pair of scissors. Another origami resource is at [Cut Fold Templates](http://cutfoldtemplates.com)
+Finally use the ready - made bioplastic sheet included with your Foldscope kit to experiment with origami style structures. The image below is a folding template - place your sheet over the template and fix with tape then use scissors or a craft knife to every gently score the bioplastic for folding.
+
+The design uses the Huffman Waterbomb Tessalation design from [Origami Simulator](https://origamisimulator.org/). Go on to explore other ways of manipulating sheet materials with another origami resource at [Cut Fold Templates](http://cutfoldtemplates.com)
+
+Good luck out there in the world of Fossil capital and competing bio materials!
 
 ![Cut fold Template](images/FirstFold.png)
 
