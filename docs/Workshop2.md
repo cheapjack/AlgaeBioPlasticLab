@@ -123,6 +123,10 @@ Use a thermometer and heat the mixture to 70º C. Once at 70ºC, remove thermome
 
 Dry in a food dehydrator for 11hrs at 35º, but you can also air-dry the poured mix in a baking tray in a dry warm room for 24 hours, or a fan oven on the lowest possible temperature for 4-6hrs. Once the film dries, carefully peel off. 
 
+## Materiom
+
+You can find great [resources on Materiom](https://materiom.org/projects) the open source portal to all things biomaterials. Good luck making them!! Most of them are more than possible to do at home.
+
 
 ## Foldscopes 🔬
 
