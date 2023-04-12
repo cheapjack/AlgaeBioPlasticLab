@@ -1,9 +1,7 @@
 
-![Montage of 4 images from workshop Clockwise from Left, Close up of origami swan, rabbit, frog, flower, boat, Cooking bioplastic film, 140x of algal plastic sheet on a smartphone with materials in the background, Foldscope folding origami microscope with BioPlastic](images/WorkshopMontage.png) 
-
 ![Image of a lasercut blank BioPlastic Sheet Mould](images/BioPlasticSheetMouldSmall.jpg)
 
-## About this [event](https://www.eventbrite.co.uk/e/algaebioplasticlab-feeling-for-the-organisms-workshop-tickets-383972059767) 📆
+## About this
 
 In the workshop, we'll learn how to make and use basic bioplastics with algae, water, processed extracts from red seaweed and glycerol and take part in a form of ‘critical making’, a way of developing a critical perspective on the world by hands on thinking through materials.
 
@@ -12,9 +10,8 @@ In the workshop, we'll learn how to make and use basic bioplastics with algae, w
  * Make stuff by folding algal biomaterials
  * Understand the social relations everyday materials have with non-humans
 
-Suitable for ages 12+
 
-You can find this online at **[https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1](https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop1)**
+You can find this online at **[https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop2](https://cheapjack.github.io/AlgaeBioPlasticLab/Workshop2)**
 
 <br>
 <br>
@@ -24,12 +21,10 @@ You can find this online at **[https://cheapjack.github.io/AlgaeBioPlasticLab/Wo
 
 **Time**|**Activity**
 ---|---
-10.00am|Introduction to project<br>Critical Making<br>Introduce Foldscopes<br>Cook demo
-10.30am|Foldscope Making<br>Slide Prep<br>Phone viewing<br>Advanced mould making (option)
-11.15am|Break
-12.30pm|Folding bioplastic<br>Cooking **[Ca03](https://materiom.org/recipe/206)** in pairs
-
-<br>
+10.00am|Introduction to Critical Kits
+11am-12pm|<br>Slide Preperation and Phone viewing
+2pm|Introduction to project<br>Critical Making<br>BioPlastic Cook
+3pm|Cook and Fold
 
 
 ## Introduction 
@@ -72,18 +67,21 @@ You could imagine other more simple moulds - cake and baking tins and you could 
 
 ### Domestic Lab Equipment ⚗️
 
- * Hot Plate
- * Saucepan with insulated handle (do not re-use for food)
- * [Electriq Food Dehyrdrator](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer)
-  * You can just air dry in a dry warm room for 24-48 hours
+ * [Hot Plate](https://www.tjc.co.uk/homesmart-1000w-single-hot-plate-for-cooking-includes-5-level-of-pressure-temperature-control---black-6505880.html)
+ * [Saucepan with insulated handle](https://www.ebay.co.uk/itm/285166764100) (do not re-use for food)
+ * [Electriq Food Dehyrdrator 1](https://www.electriq.co.uk/p/edfd06/electriq-maxi-digital-food-dehydrator-with-6-collapsible-shelves-and-48-hour-timer)
+ * [Electriq Food Dehyrdrator 2](https://www.appliancesdirect.co.uk/p/eqddss/electriq-eqddss-dehydrator)
+ * [Larger 400 x 450 sheet making Electriq Food Dehyrdrator 3](https://www.ukjuicers.com/excalibur-9-tray-dehydrator-with-timer-black-4926t)
  * Laser cut moulds for dehydrator [Lasercutting at DoESLiverpool](https://doesliverpool.com). You can use the cut file [BioPlasticTrays.svg here](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/BioPlasticTrays.svg)
-  * You can use a small oven baking tray as an alternative
- * Pyrex dish
- * Analogue cooking thermometer- if you can get a traditional thermometer for jam making, this is really handy.
- * Microscales
- * Scales
- * Magnetic stirrer - not essential but can help if you mixing alot - again available on ebay
+ * Plasticine or blue tack for internal mould walls, or 3D Print them [from this file](https://github.com/cheapjack/AlgaeBioPlasticLab/blob/master/AlgaeBioPlasticRingMould.stl)
+ * [Heat proof 500ml Borosilicate Glass Conical Flask](https://www.ebay.co.uk/itm/264436951292) - not essential but handy and safe for mixing and heating although you'll need gloves to handle them. Our recipe is realitvely low temperature when mixing so you'll see me handling without gloves.
+ * [Pyrex dish](https://www.ebay.co.uk/itm/185845709595)
+ * [Analogue cooking thermometer](https://www.ebay.co.uk/itm/204039031041)- if you can get a traditional thermometer for jam making, this is really handy.
+ * [Microscales](https://www.ebay.co.uk/itm/383953781268)
+ * [MacroScales](https://www.ebay.co.uk/itm/285188032855)
+ * [Magnetic stirrer](https://www.ebay.co.uk/itm/295618283793) - not essential but can help if you mixing alot - again available on ebay
  * [Foldscopes](https://foldscope.com/collections/for-everyone) - Only necessary if you want to explore the world of living algae!
+
 
 
 
@@ -97,7 +95,7 @@ These are amounts enough to fill one of our moulds to give you 2 sheets of 107mm
 ---|---
 175ml|Water<br>(distilled and/or ionised water ideally. Battery top up water works ok)
 1ml|Glycerol
-4g|Carrageenan Kappa 
+1-2g|Carrageenan Kappa 
 0.25g|Spirulina Algae
 
 
